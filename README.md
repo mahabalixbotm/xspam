@@ -30,7 +30,7 @@
 # SPAMBOTS
 [𝐆𝐄𝐍𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆](https://replit.com/@Mahabalix/mahabalispam#main.py)
 
-##Deploy To Railway
+## Deploy To Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmahabalixbotm%2Fxspam&envs=API_ID%2CAPI_HASH%2CSTRING%2CSTRING2%2CSTRING3%2CSTRING4%2CSTRING5%2CSTRING6%2CSTRING7%2CSTRING8%2CSTRING9%2CSTRING10%2CSUDO&API_IDDesc=Fill+API+ID&API_HASHDesc=Api+Hash+get+it+from+telegram.org&STRINGDesc=Telethon+String+Session&STRING2Desc=Telethon+String+Session&STRING3Desc=Telethon+String+Session&STRING4Desc=Telethon+String+Session&STRING5Desc=Telethon+String+Session&STRING6Desc=Telethon+String+Session&STRING7Desc=Telethon+String+Session&STRING8Desc=Telethon+String+Session&STRING9Desc=Telethon+String+Session&STRING10Desc=Telethon+String+Session&SUDODesc=Fill+all+Sudo+Users+Id&referralCode=cm5uFK)
 
 
