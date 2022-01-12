@@ -25,7 +25,7 @@
 - [![𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DANGER_FIGHTERS)
 
 ## Deploy To Heroku
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalix/mahabaliprivatespam)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mahabalixbotm/xspam)
 
 # SPAMBOTS
 [𝐆𝐄𝐍𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆](https://replit.com/@Mahabalix/mahabalispam#main.py)
